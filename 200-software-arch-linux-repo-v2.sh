@@ -133,6 +133,7 @@ sudo pacman -S --noconfirm --needed scrot
 sudo pacman -S --noconfirm --needed simple-scan
 sudo pacman -S --noconfirm --needed sysstat
 #sudo pacman -S --noconfirm --needed terminator
+sudo pacman -S --noconfirm --needed tilix
 #sudo pacman -S --noconfirm --needed termite
 #sudo pacman -S --noconfirm --needed thunar
 #sudo pacman -S --noconfirm --needed thunar-archive-plugin
