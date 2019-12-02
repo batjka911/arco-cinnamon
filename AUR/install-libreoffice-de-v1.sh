@@ -77,9 +77,9 @@ fi
 #----------------------------------------------------------------------------------
 
 
-#spelling German
+#spelling Russian
 
-package="libreoffice-fresh-de"
+package="libreoffice-fresh-ru"
 
 #----------------------------------------------------------------------------------
 
@@ -206,9 +206,9 @@ fi
 
 
 
-#spelling German
+#spelling Russian
 
-package="hunspell-de"
+package="hunspell-ru"
 
 #----------------------------------------------------------------------------------
 
@@ -256,7 +256,7 @@ else
 fi
 
 
-#hyphen German
+#hyphen Russian
 
 package="hyphen"
 
@@ -320,9 +320,9 @@ fi
 #----------------------------------------------------------------------------------
 
 
-#hyphen German
+#hyphen Russian
 
-package="hyphen-de"
+package="hyphen-ru"
 
 #----------------------------------------------------------------------------------
 
@@ -448,9 +448,9 @@ fi
 
 
 
-#hyphen German
+#hyphen Russian
 
-package="mythes-de"
+package="mythes-ru"
 
 #----------------------------------------------------------------------------------
 

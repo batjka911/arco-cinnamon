@@ -29,6 +29,7 @@ sudo pacman -S ttf-liberation --noconfirm --needed
 sudo pacman -S ttf-roboto --noconfirm --needed
 sudo pacman -S ttf-ubuntu-font-family --noconfirm --needed
 sudo pacman -S tamsyn-font --noconfirm --needed
+sudo pacman -S terminus-font --noconfirm --needed
 
 echo "################################################################"
 echo "####        Fonts from Arch Linux repo have been installed        ####"

@@ -44,7 +44,7 @@ echo "Installing category System"
 
 sudo pacman -S nemo-fileroller --noconfirm --needed
 sudo pacman -S imagemagick --noconfirm --needed
-sudo pacman -S w3m --noconfirm --needed
+#sudo pacman -S w3m --noconfirm --needed
 sudo pacman -S cinnamon-translations --noconfirm --needed
 
 echo "################################################################"

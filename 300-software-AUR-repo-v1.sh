@@ -37,7 +37,7 @@ sh AUR/install-mintstick-git-v*.sh
 
 echo "Installing category Development"
 
-sh AUR/install-sublime-text-v*.sh
+#sh AUR/install-sublime-text-v*.sh
 
 echo "Installing category Education"
 
@@ -82,7 +82,7 @@ sh AUR/install-surfn-icons-git-v*.sh
 sh AUR/install-the-platinum-searcher-bin-v*.sh
 sh AUR/install-ttf-font-awesome-v*.sh
 sh AUR/install-ttf-mac-fonts-v*.sh
-sh AUR/install-virtualbox-for-linux-v*.sh
+#sh AUR/install-virtualbox-for-linux-v*.sh
 sh AUR/install-xcursor-breeze-v*.sh
 
 # these come always last

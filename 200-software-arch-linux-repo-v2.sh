@@ -24,16 +24,17 @@ sudo pacman -S --noconfirm --needed cronie
 sudo pacman -S --noconfirm --needed galculator
 sudo pacman -S --noconfirm --needed gnome-screenshot
 sudo pacman -S --noconfirm --needed plank
-sudo pacman -S --noconfirm --needed xfburn
+#sudo pacman -S --noconfirm --needed xfburn
 sudo pacman -S --noconfirm --needed variety
 #sudo pacman -S --noconfirm --needed
 
 
 echo "Installing category Development"
 
-sudo pacman -S --noconfirm --needed atom
-sudo pacman -S --noconfirm --needed geany
+#sudo pacman -S --noconfirm --needed atom
+#sudo pacman -S --noconfirm --needed geany
 sudo pacman -S --noconfirm --needed meld
+sudo pacman -S --noconfirm --needed code
 #sudo pacman -S --noconfirm --needed
 
 echo "Installing category Education"
@@ -47,13 +48,13 @@ echo "Installing category Games"
 echo "Installing category Graphics"
 
 #sudo pacman -S --noconfirm --needed darktable
-sudo pacman -S --noconfirm --needed gimp
+#sudo pacman -S --noconfirm --needed gimp
 sudo pacman -S --noconfirm --needed gnome-font-viewer
 sudo pacman -S --noconfirm --needed gpick
-sudo pacman -S --noconfirm --needed inkscape
+#sudo pacman -S --noconfirm --needed inkscape
 sudo pacman -S --noconfirm --needed nomacs
 #sudo pacman -S --noconfirm --needed pinta
-sudo pacman -S --noconfirm --needed ristretto
+#sudo pacman -S --noconfirm --needed ristretto
 #sudo pacman -S --noconfirm --needed
 
 echo "Installing category Internet"
@@ -69,7 +70,7 @@ echo "Installing category Multimedia"
 
 #sudo pacman -S --noconfirm --needed clementine
 #sudo pacman -S --noconfirm --needed deadbeef
-#sudo pacman -S --noconfirm --needed mpv
+sudo pacman -S --noconfirm --needed mpv
 #sudo pacman -S --noconfirm --needed openshot
 sudo pacman -S --noconfirm --needed pragha
 #sudo pacman -S --noconfirm --needed shotwell
@@ -83,7 +84,7 @@ echo "Installing category Office"
 sudo pacman -S --noconfirm --needed evince
 sudo pacman -S --noconfirm --needed evolution
 #sudo pacman -S --noconfirm --needed geary
-#sudo pacman -S --noconfirm --needed libreoffice-fresh
+sudo pacman -S --noconfirm --needed libreoffice-fresh libreoffice-fresh-en-gb libreoffice-fresh-ru
 #sudo pacman -S --noconfirm --needed
 
 echo "Installing category Other"
@@ -132,10 +133,10 @@ sudo pacman -S --noconfirm --needed scrot
 sudo pacman -S --noconfirm --needed simple-scan
 sudo pacman -S --noconfirm --needed sysstat
 #sudo pacman -S --noconfirm --needed terminator
-sudo pacman -S --noconfirm --needed termite
-sudo pacman -S --noconfirm --needed thunar
-sudo pacman -S --noconfirm --needed thunar-archive-plugin
-sudo pacman -S --noconfirm --needed thunar-volman
+#sudo pacman -S --noconfirm --needed termite
+#sudo pacman -S --noconfirm --needed thunar
+#sudo pacman -S --noconfirm --needed thunar-archive-plugin
+#sudo pacman -S --noconfirm --needed thunar-volman
 sudo pacman -S --noconfirm --needed ttf-ubuntu-font-family
 sudo pacman -S --noconfirm --needed ttf-droid
 sudo pacman -S --noconfirm --needed tumbler

@@ -26,6 +26,9 @@ sudo pacman -S gtk3-print-backends --noconfirm --needed
 sudo pacman -S libcups --noconfirm --needed
 sudo pacman -S hplip --noconfirm --needed
 sudo pacman -S system-config-printer --noconfirm --needed
+sudo pacman -S xsane --noconfirm --needed
+sudo pacman -S iscan --noconfirm --needed
+sudo pacman -S imagescan --noconfirm --needed
 
 sudo systemctl enable org.cups.cupsd.service
 
